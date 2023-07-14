@@ -1,0 +1,105 @@
+DESIGN c3_t2_button_block
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c3_t2_button_block
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c3_t2_button_block
+VIEW symbol.sb
+GRAPHIC 154,0 14 0 
+DESIGN c3_t2_button_block
+VIEW symbol.sb
+GRAPHIC 124,0 15 0 
+DESIGN c3_t2_button_block
+VIEW symbol.sb
+GRAPHIC 119,0 16 0 
+DESIGN c3_t2_button_block
+VIEW symbol.sb
+GRAPHIC 114,0 17 0 
+DESIGN c3_t2_button_block
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN c3_t2_button_block
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+NO_GRAPHIC 24
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 41,0 33 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 0,0 38 2 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 720,0 43 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 672,0 44 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 225,0 45 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 940,0 46 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 678,0 47 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 684,0 48 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 690,0 49 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 696,0 50 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 702,0 51 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 708,0 52 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 714,0 53 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 946,0 54 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+NO_GRAPHIC 55
+DESIGN c3_t2_button_block
+VIEW struct.bd
+NO_GRAPHIC 62
+DESIGN c3_t2_button_block
+VIEW struct.bd
+NO_GRAPHIC 63
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 296,0 65 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 121,0 68 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 140,0 71 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 341,0 81 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 571,0 85 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+GRAPHIC 895,0 101 0 
+DESIGN c3_t2_button_block
+VIEW struct.bd
+NO_GRAPHIC 110
+DESIGN c3_t2_button_block
+VIEW struct.bd
+NO_GRAPHIC 113

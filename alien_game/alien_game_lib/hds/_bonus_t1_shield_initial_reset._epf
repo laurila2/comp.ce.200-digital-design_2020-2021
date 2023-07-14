@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom fsm
+DEFAULT_FILE atom bonus_t1_shield_initial_reset/fsm.sm

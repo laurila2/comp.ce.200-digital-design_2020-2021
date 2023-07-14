@@ -1,0 +1,128 @@
+DESIGN x_coordinate_block
+VIEW interface
+NO_GRAPHIC 0
+DESIGN x_coordinate_block
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN x_coordinate_block
+VIEW interface
+GRAPHIC 688,0 14 0 
+DESIGN x_coordinate_block
+VIEW interface
+GRAPHIC 693,0 15 0 
+DESIGN x_coordinate_block
+VIEW interface
+GRAPHIC 698,0 16 0 
+DESIGN x_coordinate_block
+VIEW interface
+GRAPHIC 703,0 17 0 
+DESIGN x_coordinate_block
+VIEW interface
+GRAPHIC 708,0 18 0 
+DESIGN x_coordinate_block
+VIEW interface
+GRAPHIC 1,0 21 0 
+DESIGN x_coordinate_block
+VIEW interface
+GRAPHIC 1,0 22 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+NO_GRAPHIC 25
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 41,0 34 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+NO_GRAPHIC 37
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 0,0 40 2 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 386,0 45 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 388,0 46 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 380,0 47 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 384,0 48 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 322,0 51 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+NO_GRAPHIC 56
+LIBRARY alien_game_lib
+DESIGN c2_t3_left_shifter
+VIEW struct
+GRAPHIC 192,0 58 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 112,0 60 0 
+DESIGN c2_t3_left_shifter
+VIEW symbol.sb
+GRAPHIC 117,0 61 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 174,0 64 0 
+DESIGN c2_t4_right_shifter
+VIEW symbol.sb
+GRAPHIC 112,0 66 0 
+DESIGN c2_t4_right_shifter
+VIEW symbol.sb
+GRAPHIC 117,0 67 0 
+LIBRARY alien_game_lib
+DESIGN x_coordinate_block
+VIEW struct.bd
+NO_GRAPHIC 70
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 192,0 73 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 174,0 74 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+NO_GRAPHIC 77
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 273,0 79 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 133,0 90 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 210,0 93 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+NO_GRAPHIC 105
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 192,0 107 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 312,0 109 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 368,0 110 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 174,0 112 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 322,0 114 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 364,0 115 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+GRAPHIC 322,0 119 0 
+DESIGN x_coordinate_block
+VIEW struct.bd
+NO_GRAPHIC 121

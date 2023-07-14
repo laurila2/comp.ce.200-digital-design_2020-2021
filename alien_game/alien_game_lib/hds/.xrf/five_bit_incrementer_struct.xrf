@@ -1,0 +1,158 @@
+DESIGN five_bit_incrementer
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN five_bit_incrementer
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN five_bit_incrementer
+VIEW symbol.sb
+GRAPHIC 117,0 14 0 
+DESIGN five_bit_incrementer
+VIEW symbol.sb
+GRAPHIC 112,0 15 0 
+DESIGN five_bit_incrementer
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN five_bit_incrementer
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 41,0 31 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 0,0 37 2 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 278,0 42 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 284,0 43 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 342,0 44 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 348,0 45 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 286,0 46 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+NO_GRAPHIC 47
+DESIGN five_bit_incrementer
+VIEW struct.bd
+NO_GRAPHIC 48
+LIBRARY alien_game_lib
+DESIGN c1_t1_half_adder
+VIEW struct
+GRAPHIC 134,0 50 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 116,0 52 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 121,0 53 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 126,0 54 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 131,0 55 0 
+LIBRARY alien_game_lib
+DESIGN five_bit_incrementer
+VIEW struct.bd
+NO_GRAPHIC 58
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 134,0 61 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+NO_GRAPHIC 64
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 115,0 66 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+NO_GRAPHIC 69
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 134,0 71 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 254,0 73 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 274,0 74 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 270,0 75 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 230,0 76 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 160,0 78 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 258,0 80 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 270,0 81 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 266,0 82 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 234,0 83 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 186,0 85 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 262,0 87 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 266,0 88 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 344,0 89 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 238,0 90 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 290,0 92 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 354,0 94 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 344,0 95 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 350,0 96 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 372,0 97 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 316,0 99 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 366,0 101 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 350,0 102 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+GRAPHIC 378,0 104 0 
+DESIGN five_bit_incrementer
+VIEW struct.bd
+NO_GRAPHIC 107

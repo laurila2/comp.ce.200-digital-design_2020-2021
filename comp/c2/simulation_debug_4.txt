@@ -1,0 +1,4 @@
+We started debugging by looking at ModelSim waveforms.
+First we figured out that button 0 didn't shift left correctly.
+We changed and_L port's input from xcoord(0) to xcoord(7).
+This fixed button 0's functionality.

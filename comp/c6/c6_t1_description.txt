@@ -1,0 +1,1 @@
+A pixel bounces from a corner to another.

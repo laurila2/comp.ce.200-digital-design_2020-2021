@@ -1,0 +1,147 @@
+DESIGN tb_victory
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_victory
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_victory
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_victory
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_victory
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_victory
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 0,0 33 2 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 127,0 38 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 273,0 39 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 1148,0 40 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 602,0 41 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 147,0 42 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 493,0 43 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 491,0 44 0 
+DESIGN tb_victory
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN tb_victory
+VIEW struct.bd
+NO_GRAPHIC 46
+LIBRARY alien_game_lib
+DESIGN c6_t1_victory_effect
+VIEW struct
+GRAPHIC 772,0 48 0 
+DESIGN c6_t1_victory_effect
+VIEW symbol.sb
+GRAPHIC 118,0 50 0 
+DESIGN c6_t1_victory_effect
+VIEW symbol.sb
+GRAPHIC 221,0 51 0 
+DESIGN c6_t1_victory_effect
+VIEW symbol.sb
+GRAPHIC 123,0 52 0 
+DESIGN c6_t1_victory_effect
+VIEW symbol.sb
+GRAPHIC 255,0 53 0 
+DESIGN c6_t1_victory_effect
+VIEW symbol.sb
+GRAPHIC 260,0 54 0 
+DESIGN c6_t1_victory_effect
+VIEW symbol.sb
+GRAPHIC 265,0 55 0 
+LIBRARY tb_lib
+DESIGN victory_text_test_block
+VIEW testbench
+GRAPHIC 199,0 58 0 
+DESIGN tb_victory
+VIEW struct.bd
+NO_GRAPHIC 66
+LIBRARY tb_lib
+DESIGN tb_victory
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 772,0 71 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 199,0 72 0 
+DESIGN tb_victory
+VIEW struct.bd
+NO_GRAPHIC 75
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 1078,0 77 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 255,0 80 0 
+DESIGN tb_victory
+VIEW struct.bd
+NO_GRAPHIC 83
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 772,0 85 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 119,0 87 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 1150,0 88 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 139,0 89 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 149,0 90 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 159,0 91 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 129,0 92 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 199,0 94 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 119,0 96 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 139,0 97 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 129,0 98 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 149,0 99 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 159,0 100 0 
+DESIGN tb_victory
+VIEW struct.bd
+GRAPHIC 267,0 101 0 
+DESIGN tb_victory
+VIEW struct.bd
+NO_GRAPHIC 104

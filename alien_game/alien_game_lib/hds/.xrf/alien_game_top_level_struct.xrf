@@ -1,0 +1,207 @@
+DESIGN alien_game_top_level
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 189,0 14 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 179,0 15 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 184,0 16 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 368,0 17 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 378,0 18 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 363,0 19 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 388,0 20 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 373,0 21 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 383,0 22 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN alien_game_top_level
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 41,0 38 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 41
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 0,0 45 2 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 406,0 50 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 388,0 51 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 412,0 52 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 382,0 53 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 394,0 54 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 400,0 55 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 56
+DESIGN alien_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 57
+LIBRARY alien_game_lib
+DESIGN game_logic_hierarcical_block
+VIEW struct
+GRAPHIC 318,0 59 0 
+DESIGN game_logic_hierarcical_block
+VIEW symbol.sb
+GRAPHIC 166,0 61 0 
+DESIGN game_logic_hierarcical_block
+VIEW symbol.sb
+GRAPHIC 151,0 62 0 
+DESIGN game_logic_hierarcical_block
+VIEW symbol.sb
+GRAPHIC 156,0 63 0 
+DESIGN game_logic_hierarcical_block
+VIEW symbol.sb
+GRAPHIC 161,0 64 0 
+DESIGN game_logic_hierarcical_block
+VIEW symbol.sb
+GRAPHIC 146,0 65 0 
+DESIGN game_logic_hierarcical_block
+VIEW symbol.sb
+GRAPHIC 131,0 66 0 
+DESIGN game_logic_hierarcical_block
+VIEW symbol.sb
+GRAPHIC 126,0 67 0 
+DESIGN game_logic_hierarcical_block
+VIEW symbol.sb
+GRAPHIC 136,0 68 0 
+DESIGN game_logic_hierarcical_block
+VIEW symbol.sb
+GRAPHIC 141,0 69 0 
+LIBRARY pre_made
+DESIGN z_black_box_y
+VIEW struct
+GRAPHIC 701,0 72 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 88
+LIBRARY alien_game_lib
+DESIGN alien_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 90
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 318,0 93 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 701,0 94 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 97
+DESIGN alien_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 99
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 318,0 101 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 378,0 103 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 354,0 104 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 360,0 105 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 414,0 106 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 408,0 107 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 390,0 108 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 384,0 109 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 396,0 110 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 402,0 111 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 701,0 113 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 370,0 115 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 408,0 116 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 390,0 117 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 364,0 118 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 384,0 119 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 396,0 120 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 402,0 121 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 803,0 122 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 807,0 123 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 811,0 124 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 823,0 125 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 819,0 126 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 414,0 127 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+GRAPHIC 815,0 128 0 
+DESIGN alien_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 131
