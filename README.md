@@ -1,3 +1,3 @@
-# digital_design
+# Digital Design repository
 
-change to readme.
+course COMP.CE.200 fall 2020 implementation.
